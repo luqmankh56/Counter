@@ -1,1 +1,1 @@
-Link: https://github.com/luqmankh56/Counter
+Link: https://people-counter56.netlify.app/
